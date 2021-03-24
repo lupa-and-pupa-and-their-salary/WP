@@ -10,3 +10,5 @@
 
 
 Ссылка на гугл док. с первой версией на юнити. Реализован один уровень и ходьба. (реализованы, конечно, криво, но реализованны): https://drive.google.com/file/d/1hnZW-B-G0yKtla3r_0ZAYur1XJDIUne8/view?usp=sharing
+
+Ссылка на просмотр диаграммы: https://lucid.app/lucidchart/invitations/accept/ae0423b1-968c-420c-a56e-06027f544245
